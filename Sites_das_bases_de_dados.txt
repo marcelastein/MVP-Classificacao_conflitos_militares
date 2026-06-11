@@ -1,0 +1,11 @@
+conflitos
+
+https://ucdp.uu.se/downloads/#section-yearly-1946
+
+Dados militares
+
+https://data.worldbank.org/indicator/MS.MIL.TOTL.TF.ZS?end=2024&start=1960&view=chart
+
+PIB mundial 
+
+https://data.worldbank.org/indicator/NY.GDP.FCST.CD
